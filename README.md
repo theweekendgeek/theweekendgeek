@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Marcus. I am a web developer and coffee nerd. I also occasionally watch birds from my balcony.
+🌱 I’m currently learning how to make the web accessible to everyone and I work on a few small hobby projects.
+
+[![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=theweekendgeek&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theweekendgeek&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **theweekendgeek/theweekendgeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
