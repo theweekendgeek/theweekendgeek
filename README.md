@@ -77,6 +77,12 @@ I am currently learning:
 
 </div>
 
+<div  style="margin: 2rem auto 0 auto;">
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theweekendgeek&theme=blue-green)
+
+</div>
+
 </div>
 
 
