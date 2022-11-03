@@ -4,6 +4,7 @@ I'm Marcus. I am a software developer with 6 years experience, coffee nerd and f
 
 <a href="https://twitter.com/weekendgeek_the" rel="some text">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="mailto:deh.marcus@outlook.de" rel="some text">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
+<a href="https://exercism.org/profiles/theweekendgeek" rel="some text">![Outlook](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)</a>
 
 I mostly work with:
 
